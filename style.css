@@ -10,19 +10,19 @@
 }
 
 #notification {
-    width: min(1100px, 100%);
+    width: min(900px, 100%);
     height: fit-content;
     display: flex;
     background-color: hsl(205, 33%, 90%);
-    margin-inline: auto;
+    margin: 1rem auto;
 }
 
 
 
 .notification {
-    width: min(95%, 1000px);
+    width: 100%;
     background-color: hsl(0, 0%, 100%);
-    margin: 1rem auto 0.5rem;
+    margin: 1rem 1rem 0.5rem;
     padding: 1rem;
     border-radius: 0.5rem;
 }
